@@ -1,2 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=navy&height=200&text=D%26A's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36&desc=AI%20%26%20Big%20Data%20Analytics%20Association&descAlign=70&descAlignY=60&descSize=20)
-
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
